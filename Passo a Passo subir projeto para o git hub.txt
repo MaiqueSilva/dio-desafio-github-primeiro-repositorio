@@ -1,0 +1,12 @@
+Passo a Passo, para subir documentos para o GitHub.
+
+Após fazer todas alterações da pagina ou arquivos,
+
+Vai até o git push e da um: "git add." (para adicionar todos os arquivos)
+
+Apos isso caso queira saber se deu certo, usa o "git: status", que ira mostrar o status.
+
+Depois disso, tem que utilizar o "git commit -m "colocar um comentario aqui dentro, ex: inclusão de anotações""
+
+Para finalizar, é necessario dar um push, para subir os arquivos/commit para a nuvem.
+
